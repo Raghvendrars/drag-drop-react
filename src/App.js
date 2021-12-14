@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import DragAndDrop from './Components/DragAndDrop';
+import MyTable from './Components/MyTable';
 
 function App() {
   return (
     <div className="App">
-      <DragAndDrop />
+      <MyTable />
     </div>
   );
 }
